@@ -1,0 +1,6 @@
+@CommerceAPI_IOON_HostAddress = http://localhost:5109
+
+GET {{CommerceAPI_IOON_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

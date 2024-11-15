@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommerceAPI-IOON", "CommerceAPI-IOON.csproj", "{794B4342-1825-4C56-BCBC-7E568D50BB26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{794B4342-1825-4C56-BCBC-7E568D50BB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794B4342-1825-4C56-BCBC-7E568D50BB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794B4342-1825-4C56-BCBC-7E568D50BB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794B4342-1825-4C56-BCBC-7E568D50BB26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA036ED4-AFC2-4B52-BB0B-22D31514BE87}
+	EndGlobalSection
+EndGlobal
